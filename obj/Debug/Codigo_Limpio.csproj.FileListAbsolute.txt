@@ -1,0 +1,7 @@
+C:\Users\alexi\OneDrive\Documentos\nuevoVisualg1\Codigo_Limpio\Codigo_Limpio\obj\Debug\Codigo_Limpio.csproj.AssemblyReference.cache
+C:\Users\alexi\OneDrive\Documentos\nuevoVisualg1\Codigo_Limpio\Codigo_Limpio\obj\Debug\Codigo_Limpio.csproj.CoreCompileInputs.cache
+C:\Users\alexi\OneDrive\Documentos\nuevoVisualg1\Codigo_Limpio\Codigo_Limpio\bin\Debug\Codigo_Limpio.exe.config
+C:\Users\alexi\OneDrive\Documentos\nuevoVisualg1\Codigo_Limpio\Codigo_Limpio\bin\Debug\Codigo_Limpio.exe
+C:\Users\alexi\OneDrive\Documentos\nuevoVisualg1\Codigo_Limpio\Codigo_Limpio\bin\Debug\Codigo_Limpio.pdb
+C:\Users\alexi\OneDrive\Documentos\nuevoVisualg1\Codigo_Limpio\Codigo_Limpio\obj\Debug\Codigo_Limpio.exe
+C:\Users\alexi\OneDrive\Documentos\nuevoVisualg1\Codigo_Limpio\Codigo_Limpio\obj\Debug\Codigo_Limpio.pdb
